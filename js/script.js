@@ -1,5 +1,5 @@
 const rows = document.querySelector("#rows");
-const name=fetch("../data/activity.json")
+const name=fetch("./data/activity.json")
 .then((response)=> response.text())
 .then((text)=> {
     console.log(text)
