@@ -1,0 +1,22 @@
+[
+    {
+        "name": "ศิลปะหัตกรรม ครั้งที่72 Web Application ม.4-ม.6",
+        "year": "2567",
+        "image": "/data/slp.png"
+    },
+    {
+        "name": "IECU Hackathon",
+        "year": "2569",
+        "image": "/data/ie.png"
+    },
+    {
+        "name": "DARUNHACKATHON 2026",
+        "year": "2569",
+        "image": "/data/dr.png"
+    },
+    {
+        "name": "IDektep Robot Challenge @Kasetfair 2026",
+        "year": "2569",
+        "image": "/data/id.png"
+    }
+]
