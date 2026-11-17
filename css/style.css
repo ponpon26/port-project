@@ -1,0 +1,174 @@
+body{
+    background-color: rgb(255, 254, 211);
+    align-items: flex-start;
+    margin: 0%;
+}
+.top{
+    background-color: rgb(255, 245, 152);
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20px ;
+}
+.menubar{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    background-color: rgb(255, 182, 133);
+    padding-right: 50px;
+    padding-left: 20px;
+    width: 1200px;
+}
+.img{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+    margin-right: 150px;
+}
+
+.img21{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap:5px;
+}
+.img212{
+    width: 150px;
+    height: 130px;
+    display: flex;
+    align-items: center;
+}
+
+.img2{
+    display: flex;
+    justify-content: center;
+    margin-top: 60PX;
+    gap: 20PX;
+
+
+}
+h1{
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.kom{
+    display: flex;
+    justify-content: space-around;
+    font-size: 24px;
+    color: rgb(246, 165, 95);
+}
+.dis{
+    display: flex;
+    justify-content: space-around;
+    font-size: 18px;
+}
+.name{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+    background-color: rgb(255, 209, 135);
+   width: 250px;
+   height: 50px;
+}
+.box{
+    align-items: center;
+    gap: 10px;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 80px;
+}
+.box2{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.logo{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+.con{
+    color: rgb(255, 111, 75);
+    margin-top: 50px;
+}
+.about{
+    display: flex;
+    justify-content: center;
+    font-size: 36px;
+}
+.a{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.pon{
+    color: rgb(208, 99, 60);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+.hobby{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+.hobby2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+.hobby212{
+    width: 220px;
+    height: 160px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#hobby3{
+    margin-top: 20px;
+}
+.text{
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+}
+.personal{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.ph{
+    font-size: 24px;
+    color: rgb(6, 6, 6);
+    background-color: rgb(255, 141, 99);
+}
+
+
+
+/* button {
+    display: flex;
+    font-size: 12px;
+    padding: 10px 36px;
+    background: yellow
+    color: yellowgreen
+    border: 3px solid 
+    box-shadow: 3px 3px 0 
+    cursor: pointer;
+  }
+  button:active { 
+    transform: translate(3px, 3px); 
+    box-shadow: none; 
+} */
+  
